@@ -4,7 +4,7 @@ import Contact from './Contact'
 export default class App extends Component {
 	render() {
 
-		const contact = {
+		const chidi = {
 			firstName: "Chidi",
 			lastName: "Anagonye",
 			phone: "555-366-8987",
