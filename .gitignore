@@ -4,6 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
+/src/exercise-1-class-solution
+/src/exercise-1-functional-solution-1
+/src/exercise-1-functional-solution-2
 
 # testing
 /coverage
