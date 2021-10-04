@@ -11,8 +11,10 @@ export default function App() {
 	}
 
 	return (
-		<div className="container">
-			<Contact />
+		<div className="container mt-5">
+			<div class="row">
+				<Contact />
+			</div>
 		</div>
 	)
 }

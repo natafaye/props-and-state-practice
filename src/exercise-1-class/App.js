@@ -12,8 +12,10 @@ export default class App extends Component {
 		}
 
 		return (
-			<div className="container">
-				<Contact />
+			<div className="container mt-5">
+				<div className="row">
+					<Contact />
+				</div>
 			</div>
 		)
 	}
