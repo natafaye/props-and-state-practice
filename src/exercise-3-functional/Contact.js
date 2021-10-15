@@ -12,8 +12,11 @@ export default function Contact() {
                     <li className="list-group-item">
                         <span className="text-muted">Phone: </span>PHONE HERE
                     </li>
-                    <li class="list-group-item">
+                    <li className="list-group-item">
                         <span className="text-muted">Address: </span>ADDRESS HERE
+                    </li>
+                    <li className="list-group-item text-end">
+                        <button className="btn btn-danger">Delete</button>
                     </li>
                 </ul>
             </div>

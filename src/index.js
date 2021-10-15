@@ -14,6 +14,12 @@ import App from './exercise-1-class/App';
 // Exercise 2: Functional Components
 //import App from './exercise-2-functional/App';
 
+// Exercise 3: Class Components
+//import App from './exercise-3-class/App';
+
+// Exercise 3: Functional Components
+//import App from './exercise-3-functional/App';
+
 ReactDOM.render(
   <React.StrictMode>
     <App />

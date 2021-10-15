@@ -16,6 +16,9 @@ export default class Contact extends Component {
                         <li className="list-group-item">
                             <span className="text-muted">Address: </span>ADDRESS HERE
                         </li>
+                        <li className="list-group-item text-end">
+                            <button className="btn btn-danger">Delete</button>
+                        </li>
                     </ul>
                 </div>
             </div>
